@@ -20,5 +20,5 @@
  
 
 ### Инструкция по установке и запуску 
-* Перейти по ссылке https://github.com/MrlLegend/.github.io.git;
+* Перейти по ссылке https://MrlLegend/.github.io.git;
 * Следовать дальнейшим указаниям игры.
